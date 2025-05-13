@@ -2,11 +2,6 @@
 
 I'm a **Full Stack Web Developer** with a passion for building web apps that are fast, scalable, and user-friendly. I enjoy turning ideas into reality through clean code and modern frameworks.
 
-## 🎧 Now Playing on Spotify
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/your_spotify_id)
-
-
 ---
 
 ## 🛠️ Tech Stack
