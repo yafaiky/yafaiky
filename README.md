@@ -42,13 +42,5 @@ I'm a passionate **Full Stack Web Developer** who loves building impactful web a
 </p>
 
 ---
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-blueviolet?style=for-the-badge)](https://your-portfolio-link.com)
-
----
-
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
