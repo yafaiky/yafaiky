@@ -1,19 +1,16 @@
-# Hi there 👋, I'm Yafaiky!
+### Hey there! 👋 I'm Yafaiky
 
-I'm a passionate **Full Stack Web Developer** who loves building impactful web applications from front to back. I focus on creating scalable, user-friendly, and performance-optimized solutions using modern technologies.
+I'm a **Full Stack Web Developer** with a passion for building web apps that are fast, scalable, and user-friendly. I enjoy turning ideas into reality through clean code and modern frameworks.
 
----
+- 🔭 Currently building fullstack web apps using **Laravel**, **React**, and **Next.js**
+- 🌱 Always learning new things — recently diving deeper into **API security**, **performance optimization**, and **backend architecture**
+- 👨‍💻 Love both frontend creativity and backend logic — from designing UI to structuring databases
+- 💡 Believe in clean code, reusable components, and writing tests (yes, tests 😄)
+- 📫 Let’s connect! I'm open to collaboration, especially in real-world or open-source projects
+- 🧠 I value growth, community, and sharing knowledge
+- ☕ Fun fact: I can code for hours... as long as there's coffee and good lo-fi music
 
-## 🚀 About Me
-
-- 🔭 I’m currently working on building fullstack web apps and real-time features
-- 🌱 I’m currently learning advanced backend architecture and deployment workflows
-- 👯 I’m looking to collaborate on open source or real-world startup projects
-- 🤔 I’m looking for help with improving DevOps and CI/CD knowledge
-- 💬 Ask me about anything related to web development — especially fullstack apps
-- 📫 How to reach me: [yafaiky@example.com](mailto:yafaiky@example.com)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love clean code almost as much as I love coffee ☕
+> “First, solve the problem. Then, write the code.” – John Johnson
 
 ---
 
