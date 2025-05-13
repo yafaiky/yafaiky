@@ -2,13 +2,9 @@
 
 I'm a **Full Stack Web Developer** with a passion for building web apps that are fast, scalable, and user-friendly. I enjoy turning ideas into reality through clean code and modern frameworks.
 
-- 🔭 Currently building fullstack web apps using **Laravel**, **React**, and **Next.js**
-- 🌱 Always learning new things — recently diving deeper into **API security**, **performance optimization**, and **backend architecture**
-- 👨‍💻 Love both frontend creativity and backend logic — from designing UI to structuring databases
-- 💡 Believe in clean code, reusable components, and writing tests (yes, tests 😄)
-- 📫 Let’s connect! I'm open to collaboration, especially in real-world or open-source projects
-- 🧠 I value growth, community, and sharing knowledge
-- ☕ Fun fact: I can code for hours... as long as there's coffee and good lo-fi music
+## 🎧 Now Playing on Spotify
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/your_spotify_id)
 
 
 ---
