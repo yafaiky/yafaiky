@@ -42,14 +42,7 @@ I'm a **Full Stack Web Developer** with a passion for building web apps that are
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yafaiky&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="GitHub Stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yafaiky&layout=compact&theme=tokyonight" alt="Top Langs" height="165">
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yafaiky&theme=tokyonight&row=1&column=6" alt="GitHub Trophies">
 </p>
 
 ---
