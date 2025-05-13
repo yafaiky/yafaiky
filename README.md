@@ -10,7 +10,6 @@ I'm a **Full Stack Web Developer** with a passion for building web apps that are
 - 🧠 I value growth, community, and sharing knowledge
 - ☕ Fun fact: I can code for hours... as long as there's coffee and good lo-fi music
 
-> “First, solve the problem. Then, write the code.” – John Johnson
 
 ---
 
