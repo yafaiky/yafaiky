@@ -46,8 +46,14 @@ I'm a passionate **Full Stack Web Developer** who loves building impactful web a
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=afaiky&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afaiky&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=afaiky&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afaiky&layout=compact&theme=tokyonight" alt="Top Langs" height="165">
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=afaiky&theme=tokyonight&row=1&column=6" alt="GitHub Trophies">
 </p>
 
 ---
@@ -59,5 +65,5 @@ I'm a passionate **Full Stack Web Developer** who loves building impactful web a
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “still learning to become a software engineer, studying, praying, exercising, bismillah
 
