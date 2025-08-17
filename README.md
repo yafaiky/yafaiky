@@ -39,7 +39,7 @@ I'm a **Full Stack Web Developer** with a passion for building web apps that are
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rizky-yafa-5787a136b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-blueviolet?style=for-the-badge)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-blueviolet?style=for-the-badge)](https://yafa-portofolio.vercel.app/)
 
 ---
 
