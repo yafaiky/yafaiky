@@ -33,7 +33,6 @@ I'm a **Full Stack Web Developer** with a passion for building web apps that are
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yafaiky&layout=compact&theme=tokyonight" alt="Top Langs" height="165">
-  [![Yafaiky GitHub stats](https://github-readme-stats.vercel.app/api?usernameyafaiky)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
