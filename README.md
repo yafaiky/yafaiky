@@ -32,7 +32,7 @@ I'm a **Full Stack Web Developer** with a passion for building web apps that are
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github.com/yafaiky/github-readme-stats" alt="sia" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yafaiky&theme=prussian&show_icons=true&hide_border=true&layout=compact" alt="sia" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yafaiky&theme=prussian&hide_border=true)" alt="top" height="165">
 </p>
 
