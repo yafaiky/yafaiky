@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- Animated Wave Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:30363D&height=220&section=header&text=Yafa&fontSize=80&fontColor=58A6FF&fontAlignY=35&desc=Web%20Developer%20%7C%20Clean%20Code%20Enthusiast&descSize=18&descColor=8B949E&descAlignY=55&animation=fadeIn" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,30:1E3A5F,60:4A90D9,100:FFFFFF&height=220&section=header&text=Yafa&fontSize=80&fontColor=FFFFFF&fontAlignY=35&desc=Web%20Developer%20%7C%20Clean%20Code%20Enthusiast&descSize=18&descColor=E0E8F0&descAlignY=55&animation=fadeIn" width="100%" alt="header"/>
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
@@ -90,6 +90,7 @@ motto: "Still learning, studying, praying, exercising — bismillah 🤲"
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 </details>
@@ -105,6 +106,20 @@ motto: "Still learning, studying, praying, exercising — bismillah 🤲"
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+</details>
+
+<details open>
+<summary><b>☁️ Cloud Computing</b></summary>
+<br/>
+<div align="center">
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 </details>
@@ -209,7 +224,7 @@ If you find my projects useful or interesting, consider:
 </div>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:30363D&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,40:4A90D9,70:1E3A5F,100:0A1628&height=120&section=footer" width="100%"/>
 
 <!-- Snake Animation - Optional: requires GitHub Actions setup -->
 <!--
