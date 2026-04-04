@@ -127,7 +127,7 @@ motto: "Still learning, studying, praying, exercising — bismillah 🤲"
 ---
 
 <!-- Highlights Section -->
-## ✨ Highlights
+##  Highlights
 
 <div align="center">
 <table>
@@ -192,7 +192,7 @@ Becoming a **professional Software Engineer** by continuously learning new techn
 <!-- CTA Section -->
 <div align="center">
 
-### 💖 Support My Work
+###  Support My Work
 
 If you find my projects useful or interesting, consider:
 
