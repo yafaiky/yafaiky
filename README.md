@@ -156,9 +156,9 @@ Becoming a **professional Software Engineer** by continuously learning new techn
 <div align="center">
 
   <!-- Stats Card + Streak -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yafaiky&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats" height="170"/>
-  &nbsp;&nbsp;
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=yafaiky&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" height="170"/> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=yafaiky&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats" height="170"/>
+  &nbsp;&nbsp; -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yafaiky&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" height="170"/>
 
   <br/><br/>
 
@@ -170,6 +170,15 @@ Becoming a **professional Software Engineer** by continuously learning new techn
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yafaiky&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" alt="Activity Graph" width="95%"/>
 
+</div>
+
+---
+
+<!-- Trophy Section -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yafaiky&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" width="95%"/>
 </div>
 
 ---
