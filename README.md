@@ -174,15 +174,6 @@ Becoming a **professional Software Engineer** by continuously learning new techn
 
 ---
 
-<!-- Trophy Section -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yafaiky&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" width="95%"/>
-</div>
-
----
-
 <!-- Connect Section -->
 ## 🤝 Let's Connect
 
