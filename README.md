@@ -29,11 +29,10 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Yafa
-role: Web Developer
-location: Indonesia 🇮🇩
-currently_learning: Software Engineering
-motto: "Still learning, studying, praying, exercising — bismillah 🤲"
+Mame: Yafa
+Role: Web Developer
+Location: Indonesia 🇮🇩
+Currently_learning: Software Engineering
 ```
 
 - 🔭 I'm currently working on **building modern web applications**
@@ -47,7 +46,7 @@ motto: "Still learning, studying, praying, exercising — bismillah 🤲"
 ## 🛠️ Tech Stack
 
 <details open>
-<summary><b>💻 Languages & Frameworks</b></summary>
+<summary><b>💻 Languages </b></summary>
 <br/>
 <div align="center">
 
