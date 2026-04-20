@@ -95,7 +95,7 @@ Currently_learning: Software Engineering
 </details>
 
 <details open>
-<summary><b>🧰 Tools & DevOps</b></summary>
+<summary><b>🧰 Tools </b></summary>
 <br/>
 <div align="center">
 
