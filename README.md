@@ -31,7 +31,7 @@
 ```yaml
 Mame: Yafa
 Role: Web Developer
-Location: Indonesia 🇮🇩
+Location: Indonesia ID
 Currently_learning: Software Engineering
 ```
 
