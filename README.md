@@ -178,7 +178,7 @@ Becoming a **professional Software Engineer** by continuously learning new techn
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizky-yafa-5787a136b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rizky-yafa/)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yafa-portofolio.vercel.app/)
 &nbsp;
