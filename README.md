@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- Animated Wave Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,30:1E3A5F,60:4A90D9,100:FFFFFF&height=220&section=header&text=Yafa&fontSize=80&fontColor=FFFFFF&fontAlignY=35&desc=Web%20Developer%20%7C%20Clean%20Code%20Enthusiast&descSize=18&descColor=E0E8F0&descAlignY=55&animation=fadeIn" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,30:1E3A5F,60:4A90D9,100:FFFFFF&height=220&section=header&text=Yafa&fontSize=80&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Enginner%20%7C%20Clean%20Code%20Enthusiast&descSize=18&descColor=E0E8F0&descAlignY=55&animation=fadeIn" width="100%" alt="header"/>
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
@@ -30,7 +30,7 @@
 
 ```yaml
 Mame: Yafa
-Role: Web Developer
+Role: Software Engineer
 Location: Indonesia ID
 Currently_learning: Software Engineering
 ```
