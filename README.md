@@ -29,7 +29,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-Mame: Yafa
+Name: Yafa
 Role: Software Engineer
 Location: Indonesia ID
 Currently_learning: Software Engineering
