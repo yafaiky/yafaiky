@@ -46,7 +46,7 @@ Currently_learning: Software Engineering
 ## 🛠️ Tech Stack
 
 <details open>
-<summary><b>💻 Languages </b></summary>
+<summary><b>Languages </b></summary>
 <br/>
 <div align="center">
 
@@ -60,7 +60,7 @@ Currently_learning: Software Engineering
 </details>
 
 <details open>
-<summary><b>⚛️ Frontend</b></summary>
+<summary><b>Frontend</b></summary>
 <br/>
 <div align="center">
 
@@ -83,7 +83,7 @@ Currently_learning: Software Engineering
 </details>
 
 <details open>
-<summary><b>🗄️ Database</b></summary>
+<summary><b>Database</b></summary>
 <br/>
 <div align="center">
 
@@ -95,7 +95,7 @@ Currently_learning: Software Engineering
 </details>
 
 <details open>
-<summary><b>🧰 Tools </b></summary>
+<summary><b>Tools </b></summary>
 <br/>
 <div align="center">
 
@@ -110,7 +110,7 @@ Currently_learning: Software Engineering
 </details>
 
 <details open>
-<summary><b>☁️ Cloud Computing</b></summary>
+<summary><b>Cloud Computing</b></summary>
 <br/>
 <div align="center">
 
