@@ -71,7 +71,7 @@ Currently_learning: Software Engineering
 </details>
 
 <details open>
-<summary><b>🔧 Backend</b></summary>
+<summary><b>Backend</b></summary>
 <br/>
 <div align="center">
 
