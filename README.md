@@ -26,7 +26,7 @@
 <br/>
 
 <!-- About Me Section -->
-## 🧑‍💻 About Me
+## About Me
 
 ```yaml
 Name: Yafa
