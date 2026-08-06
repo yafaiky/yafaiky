@@ -209,7 +209,7 @@ If you find my projects useful or interesting, consider:
 
 <br/><br/>
 
-> *"Still learning to become a software engineer — studying, praying, exercising. Bismillah 🤲"*
+> *"Still learning to become a software engineer — studying, praying, exercising. Bismillah "*
 
 </div>
 
