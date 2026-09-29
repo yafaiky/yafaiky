@@ -35,10 +35,10 @@ Location: Indonesia ID
 Currently_learning: Software Engineering
 ```
 
-- 🔭 I'm currently working on **building modern web applications**
-- 🌱 I'm learning to become a **Software Engineer**
-- ⚡ I love turning ideas into reality through **clean code & modern frameworks**
-- 💬 Ask me about **JavaScript, React, Next.js, Node.js, Laravel**
+- I'm currently working on **building modern web applications**
+- I'm learning to become a **Software Engineer**
+- I love turning ideas into reality through **clean code & modern frameworks**
+- Ask me about **JavaScript, React, Next.js, Node.js, Laravel**
 
 ---
 
