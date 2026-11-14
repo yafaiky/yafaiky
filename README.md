@@ -43,7 +43,7 @@ Currently_learning: Software Engineering
 ---
 
 <!-- Tech Stack Section -->
-## 🛠️ Tech Stack
+## Tech Stack
 
 <details open>
 <summary><b>Languages </b></summary>
@@ -133,13 +133,13 @@ Currently_learning: Software Engineering
 <tr>
 <td align="center" width="50%">
 
-### 🚀 What I Do
+### What I Do
 Building **full-stack web applications** from scratch — from pixel-perfect UI to robust back-end APIs. I focus on delivering clean, maintainable, and scalable code.
 
 </td>
 <td align="center" width="50%">
 
-### 🎯 My Goals
+### My Goals
 Becoming a **professional Software Engineer** by continuously learning new technologies, contributing to open-source, and building impactful projects.
 
 </td>
@@ -150,7 +150,7 @@ Becoming a **professional Software Engineer** by continuously learning new techn
 ---
 
 <!-- GitHub Stats Section -->
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -174,7 +174,7 @@ Becoming a **professional Software Engineer** by continuously learning new techn
 ---
 
 <!-- Connect Section -->
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
